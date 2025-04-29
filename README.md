@@ -7,7 +7,7 @@ This guide helps you get the **TP-Link AC600** Bluetooth adapter (based on the R
 ### ✅ Tested On
 
 - **Device:** Jetson Nano (Developer Kit)
-- **OS:** Ubuntu-based (JetPack)
+- **OS:** Ubuntu-based (JetPack 4.6.1)
 - **Bluetooth Chipset:** Realtek RTL8821AU (used in TP-Link AC600)
 
 ---
